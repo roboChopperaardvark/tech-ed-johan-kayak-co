@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tech-ed-johan-kayak-co/static/css/main.4b76f422.chunk.css",
+    "main.js": "/tech-ed-johan-kayak-co/static/js/main.08bbf510.chunk.js",
+    "main.js.map": "/tech-ed-johan-kayak-co/static/js/main.08bbf510.chunk.js.map",
+    "runtime-main.js": "/tech-ed-johan-kayak-co/static/js/runtime-main.9268f89f.js",
+    "runtime-main.js.map": "/tech-ed-johan-kayak-co/static/js/runtime-main.9268f89f.js.map",
+    "static/css/2.558413a2.chunk.css": "/tech-ed-johan-kayak-co/static/css/2.558413a2.chunk.css",
+    "static/js/2.b610d71e.chunk.js": "/tech-ed-johan-kayak-co/static/js/2.b610d71e.chunk.js",
+    "static/js/2.b610d71e.chunk.js.map": "/tech-ed-johan-kayak-co/static/js/2.b610d71e.chunk.js.map",
+    "static/js/3.c000735c.chunk.js": "/tech-ed-johan-kayak-co/static/js/3.c000735c.chunk.js",
+    "static/js/3.c000735c.chunk.js.map": "/tech-ed-johan-kayak-co/static/js/3.c000735c.chunk.js.map",
+    "index.html": "/tech-ed-johan-kayak-co/index.html",
+    "static/css/2.558413a2.chunk.css.map": "/tech-ed-johan-kayak-co/static/css/2.558413a2.chunk.css.map",
+    "static/css/main.4b76f422.chunk.css.map": "/tech-ed-johan-kayak-co/static/css/main.4b76f422.chunk.css.map",
+    "static/js/2.b610d71e.chunk.js.LICENSE.txt": "/tech-ed-johan-kayak-co/static/js/2.b610d71e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9268f89f.js",
+    "static/css/2.558413a2.chunk.css",
+    "static/js/2.b610d71e.chunk.js",
+    "static/css/main.4b76f422.chunk.css",
+    "static/js/main.08bbf510.chunk.js"
+  ]
+}
